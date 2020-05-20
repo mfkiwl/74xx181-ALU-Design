@@ -9,4 +9,4 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 # Function Table
 
-![74xx181, ALU function table (Courtesy of Texas Instruments Inc.)](https://drive.google.com/open?id=1l11-hO4gwsPU8P6G_24bOFYJu1OpCAci)
+![74xx181, ALU function table (Courtesy of Texas Instruments Inc.)](/table.png)
