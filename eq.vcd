@@ -1,0 +1,51 @@
+$date
+	Wed May 20 18:05:01 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module eq_tb $end
+$var wire 1 ! y $end
+$var reg 4 " a [3:0] $end
+$var reg 4 # b [3:0] $end
+$scope module uut $end
+$var wire 4 $ a [3:0] $end
+$var wire 4 % b [3:0] $end
+$var reg 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+bx $
+bx #
+bx "
+x!
+$end
+#100
+1!
+b0 #
+b0 %
+b0 "
+b0 $
+#200
+0!
+b1100 "
+b1100 $
+#300
+1!
+b10 #
+b10 %
+b10 "
+b10 $
+#400
+0!
+b0 #
+b0 %
+b110 "
+b110 $
+#500

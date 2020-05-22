@@ -1,0 +1,46 @@
+$date
+	Wed May 20 18:28:44 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module increment_tb $end
+$var wire 4 ! y [3:0] $end
+$var wire 1 " cout $end
+$var reg 4 # a [3:0] $end
+$scope module dut $end
+$var wire 4 $ a [3:0] $end
+$var wire 4 % y [3:0] $end
+$var wire 1 " cout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+bx $
+bx #
+x"
+bx !
+$end
+#100
+b1 !
+b1 %
+0"
+b0 #
+b0 $
+#200
+b10 !
+b10 %
+b1 #
+b1 $
+#300
+b0 !
+b0 %
+1"
+b1111 #
+b1111 $
+#400

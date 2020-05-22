@@ -1,0 +1,124 @@
+$date
+	Fri May 22 16:22:53 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module alu_tb $end
+$var wire 4 ! p [3:0] $end
+$var wire 4 " g [3:0] $end
+$var wire 4 # f [3:0] $end
+$var wire 1 $ eqv $end
+$var wire 1 % cout $end
+$var reg 4 & a [3:0] $end
+$var reg 4 ' b [3:0] $end
+$var reg 1 ( cin $end
+$var reg 1 ) m $end
+$var reg 4 * s [3:0] $end
+$scope module uut $end
+$var wire 4 + a [3:0] $end
+$var wire 4 , abar [3:0] $end
+$var wire 4 - b [3:0] $end
+$var wire 4 . bbar [3:0] $end
+$var wire 1 ( cin $end
+$var wire 1 ) m $end
+$var wire 4 / s [3:0] $end
+$var wire 1 0 y $end
+$var wire 4 1 x [3:0] $end
+$var wire 4 2 p [3:0] $end
+$var wire 4 3 g [3:0] $end
+$var reg 1 % cout $end
+$var reg 1 $ eqv $end
+$var reg 4 4 f [3:0] $end
+$scope module gate $end
+$var wire 4 5 a [3:0] $end
+$var wire 4 6 b [3:0] $end
+$var wire 1 ( cin $end
+$var wire 4 7 sum [3:0] $end
+$var wire 4 8 p [3:0] $end
+$var wire 4 9 g [3:0] $end
+$var wire 1 0 cout $end
+$var wire 5 : c [4:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx :
+bx 9
+bx 8
+bx 7
+bx 6
+bx 5
+bx 4
+bx 3
+bx 2
+bx 1
+x0
+bx /
+bx .
+bx -
+bx ,
+bx +
+bx *
+x)
+x(
+bx '
+bx &
+0%
+x$
+bx #
+bx "
+bx !
+$end
+#100
+10
+b1001 1
+b1001 7
+b101 !
+b101 2
+b101 8
+b1010 "
+b1010 3
+b1010 9
+b0 #
+b0 4
+b101 .
+b0 ,
+0$
+b0 *
+b0 /
+1)
+b11100 :
+0(
+b1010 '
+b1010 -
+b1010 6
+b1111 &
+b1111 +
+b1111 5
+#200
+b1010 1
+b1010 7
+b1111 #
+b1111 4
+b1111 *
+b1111 /
+b11111 :
+1(
+#300
+0)
+#400
+b1110 *
+b1110 /
+1)
+#500
+b0 #
+b0 4
+b0 *
+b0 /
+#600

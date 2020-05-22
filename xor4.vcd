@@ -1,0 +1,54 @@
+$date
+	Wed May 20 17:48:51 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module xor4_tb $end
+$var wire 4 ! y [3:0] $end
+$var reg 4 " a [3:0] $end
+$var reg 4 # b [3:0] $end
+$scope module uut $end
+$var wire 4 $ a [3:0] $end
+$var wire 4 % b [3:0] $end
+$var wire 4 & y [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx &
+bx %
+bx $
+bx #
+bx "
+bx !
+$end
+#100
+b1001 !
+b1001 &
+b1010 #
+b1010 %
+b11 "
+b11 $
+#200
+b1110 #
+b1110 %
+b111 "
+b111 $
+#300
+b10 #
+b10 %
+b1011 "
+b1011 $
+#400
+b1111 !
+b1111 &
+b0 #
+b0 %
+b1111 "
+b1111 $
+#500

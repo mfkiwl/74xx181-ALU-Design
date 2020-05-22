@@ -1,0 +1,46 @@
+$date
+	Wed May 20 17:54:05 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module decrement_tb $end
+$var wire 4 ! y [3:0] $end
+$var reg 4 " a [3:0] $end
+$scope module uut $end
+$var wire 4 # a [3:0] $end
+$var wire 4 $ y [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+bx "
+bx !
+$end
+#100
+b1001 !
+b1001 $
+b1010 "
+b1010 #
+#200
+b1101 !
+b1101 $
+b1110 "
+b1110 #
+#300
+b1110 !
+b1110 $
+b1111 "
+b1111 #
+#400
+b1111 !
+b1111 $
+b0 "
+b0 #
+#500

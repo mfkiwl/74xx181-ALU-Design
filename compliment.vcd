@@ -1,0 +1,46 @@
+$date
+	Wed May 20 13:44:04 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module complement_tb $end
+$var wire 4 ! abar [3:0] $end
+$var reg 4 " a [3:0] $end
+$scope module dut $end
+$var wire 4 # a [3:0] $end
+$var wire 4 $ abar [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+bx "
+bx !
+$end
+#100
+b1010 !
+b1010 $
+b101 "
+b101 #
+#200
+b11 !
+b11 $
+b1100 "
+b1100 #
+#300
+b1000 !
+b1000 $
+b111 "
+b111 #
+#400
+b1111 !
+b1111 $
+b0 "
+b0 #
+#500
