@@ -21,7 +21,8 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 # RTL Schematic
 
-*exceeded github size limit of 25 mb*
+*exceeded github size limit of 25 mb.*
+
 find it at: https://drive.google.com/drive/folders/1XG4ukzet6mi8XpTXnu8izfJtJuKBfC-3?usp=sharing
 
 -----------------------------------------------------------------------------------------------
