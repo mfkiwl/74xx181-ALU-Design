@@ -1,7 +1,9 @@
 # 74xx181-ALU-Design
 Verilog Design of 74xx181 ALU
 
-![ALU logic symbol (Courtesy of Texas Instruments Inc.)](/pro.png)*ALU logic symbol (Courtesy of Texas Instruments Inc.)*
+![ALU logic symbol (Courtesy of Texas Instruments Inc.)](/pro.png)
+
+*ALU logic symbol (Courtesy of Texas Instruments Inc.)*
 
 # Working
 
