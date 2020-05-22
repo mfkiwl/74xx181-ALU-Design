@@ -1,4 +1,4 @@
-# 74xx181-ALU-Design
+# 74xx181-ALU-Design-and-Synthesis-Lattice-Ice40-using-Yosys
 Verilog Design of 74xx181 ALU
 
 ![ALU logic symbol (Courtesy of Texas Instruments Inc.)](/pro.png)
@@ -15,3 +15,4 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 *74xx181, ALU function table (Courtesy of Texas Instruments Inc.)*
 
+# Synthesis Report
