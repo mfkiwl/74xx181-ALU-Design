@@ -1,5 +1,5 @@
-# 74xx181-ALU-Design-and-Synthesis-Lattice-Ice40-using-Yosys
-Verilog Design of 74xx181 ALU
+# 74xx181-ALU-Design-and-Synthesis
+Verilog Design of 74xx181 ALU and its Synthesis on Lattice Ice40 FPGA using Yosys
 
 ![ALU logic symbol (Courtesy of Texas Instruments Inc.)](/pro.png)
 
