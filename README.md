@@ -17,4 +17,4 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 
 
-(find codes in the git repository at: https://github.com/siddhantv10/74xx181-ALU-Design)
+find codes in the git repository at: https://github.com/siddhantv10/74xx181-ALU-Design 
