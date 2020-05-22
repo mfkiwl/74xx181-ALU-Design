@@ -15,6 +15,7 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 *74xx181, ALU function table (Courtesy of Texas Instruments Inc.)*
 
-
+# CODE
 
 find codes in the git repository at: https://github.com/siddhantv10/74xx181-ALU-Design 
+....
