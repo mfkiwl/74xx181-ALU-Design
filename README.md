@@ -18,3 +18,8 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 # Synthesis Report
 
 ![Synthesis Report on Lattice ice40 fpga](/synth_ice40_update.png)
+
+# RTL Schematic
+
+exceeded github size limit of 25mb. 
+- 
