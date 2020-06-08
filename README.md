@@ -21,7 +21,7 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 # VCD Wavefrom
 
-![waveform](/waveform.png)
+![waveform](/op.png)
 
 # RTL Schematic
 
