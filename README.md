@@ -27,7 +27,7 @@ A four-bit select code (S3–S0) and a mode bit (M) are used to decide the opera
 
 *exceeded github size limit of 25 mb.*
 
-find it at: [here](https://drive.google.com/drive/folders/1XG4ukzet6mi8XpTXnu8izfJtJuKBfC-3?usp=sharing)
+find it [here](https://drive.google.com/drive/folders/1XG4ukzet6mi8XpTXnu8izfJtJuKBfC-3?usp=sharing)
 
 -----------------------------------------------------------------------------------------------
  
